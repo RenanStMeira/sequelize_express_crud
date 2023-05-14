@@ -44,5 +44,15 @@ bcrypt
  
 let  bcrypt  = require ( ' bcryptjs ' ) ; 
 
+Validação de usuario
+express-validation
+https://www.npmjs.com/package/express-validation
+Install 
+npm i express-validation --save
+
+
+Biblioteca de validação JOI
+https://joi.dev/api/?v=17.9.1
+
 
 
