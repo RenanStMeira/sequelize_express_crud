@@ -32,3 +32,10 @@ npm install -g nodemon
 Você também pode instalar o nodemon como uma dependência de desenvolvimento:
 
 npm install --save-dev nodemon 
+
+middlewares
+https://expressjs.com/pt-br/guide/using-middleware.html
+
+O Express é uma estrutura web de roteamento e middlewares que tem uma funcionalidade mínima por si só: Um aplicativo do Express é essencialmente uma série de chamadas de funções de middleware.
+
+
