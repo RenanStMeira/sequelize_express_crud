@@ -38,4 +38,11 @@ https://expressjs.com/pt-br/guide/using-middleware.html
 
 O Express é uma estrutura web de roteamento e middlewares que tem uma funcionalidade mínima por si só: Um aplicativo do Express é essencialmente uma série de chamadas de funções de middleware.
 
+bcrypt
+ Módulo de criptografia embutido é usada para obter números aleatórios seguros.
+ https://www.npmjs.com/package/bcryptjs
+ 
+let  bcrypt  = require ( ' bcryptjs ' ) ; 
+
+
 
